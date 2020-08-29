@@ -1,0 +1,36 @@
+{
+  "name": "node-mongodb-crud",
+  "version": "1.0.0",
+  "description": "Mongodb CRUD Operation with Node Js, Express Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonukumarraj007/node-mongodb-crud.git"
+  },
+  "keywords": [
+    "MongoDB",
+    "Node",
+    "Node Js",
+    "Node.js",
+    "Express",
+    "Express.js",
+    "MongoDB CRUD Demo",
+    "Node MongoDB CRUD Demo App",
+    "Node Js MongoDB CRUD Demo App",
+    "Node MongoDB CRUD Demo App with Express Server"
+  ],
+  "author": "Sonu Kumar",
+  "email": "sonukumarraj007@gmail.com",
+  "url": "https://www.linkedin.com/in/sonukumar007/",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonukumarraj007/node-mongodb-crud/issues"
+  },
+  "homepage": "https://github.com/sonukumarraj007/node-mongodb-crud#readme",
+  "dependencies": {
+    "mongoose": "^5.10.2"
+  }
+}
